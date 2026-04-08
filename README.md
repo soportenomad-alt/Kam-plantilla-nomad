@@ -1,0 +1,1 @@
+# Kam-plantilla-nomad
